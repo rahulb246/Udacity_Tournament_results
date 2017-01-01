@@ -1,4 +1,4 @@
-#Movie Trailer Website : Fresh Tomatoes
+#Tournament Results
 
 ###About
   This project consists of a Python module that uses a PostgreSQL database to keep track of players and matches in a game tournament by using the Swiss pairing system.
